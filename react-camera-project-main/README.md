@@ -9,4 +9,4 @@ i used
 guide_how_to_run
 pip install opencv-python mediapipe pygame
 python main.py
-![project demo](reaction/example.jpg)
+![project demo](reactions/example.jpg)
