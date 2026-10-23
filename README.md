@@ -9,4 +9,4 @@ i used<br>
 guide_how_to_run
 pip install opencv-python mediapipe pygame
 python main.py
-![project demo](reactions/example.jpg)
+![project demo](reactions/example/react-camera-project-main.jpg)
